@@ -11,3 +11,6 @@
 
 
 [![Analysis](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Analysis.yml/badge.svg)](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Analysis.yml)
+
+
+[![Bulid CI - windows](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Windows.yml/badge.svg)](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Windows.yml)
