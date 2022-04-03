@@ -14,3 +14,6 @@
 
 
 [![Bulid CI - windows](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Windows.yml/badge.svg)](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Windows.yml)
+
+
+[![Build_CI - Linux](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Linux.yml/badge.svg)](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Linux.yml)
