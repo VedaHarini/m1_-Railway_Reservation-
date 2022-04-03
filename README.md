@@ -8,3 +8,6 @@
 
 
 [![Code Quality - Cppcheck](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/c-cpp.yml)
+
+
+[![Analysis](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Analysis.yml/badge.svg)](https://github.com/VedaHarini/m1_-Railway_Reservation-/actions/workflows/Analysis.yml)
